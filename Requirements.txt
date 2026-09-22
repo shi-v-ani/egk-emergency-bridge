@@ -1,0 +1,10 @@
+# --- Phase 1: Smart Card & NFC ---
+pyscard>=2.1.0
+
+# --- Phase 2: Computer Vision & Edge AI ---
+opencv-python>=4.8.0
+ultralytics>=8.0.0      # For YOLOv8 object detection
+numpy>=1.24.0
+
+# --- Phase 3: Hardware Communication ---
+pyserial>=3.5
